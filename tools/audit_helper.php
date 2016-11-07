@@ -50,3 +50,4 @@ foreach ($allDirs as $file) {
     echo '[' . $name . '](' . $repository . $print . ')';
     echo "\n";
 }
+?>
